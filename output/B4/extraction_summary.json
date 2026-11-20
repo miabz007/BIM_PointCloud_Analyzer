@@ -1,0 +1,16 @@
+{
+  "source_ifc": "N4.ifc",
+  "schema": "IFC2X3",
+  "storey_name": "4TH BASEMENT FLOOR PLAN",
+  "storey_global_id": "3Zu5Bv0LOHrPC10026FoQQ",
+  "storey_elevation_ifc_units": 35000.00000000001,
+  "ifc_project_unit_to_metre": 0.001,
+  "contained_product_count": 457,
+  "candidate_slab_count": 75,
+  "extracted_slab_count": 75,
+  "failed_slab_count": 0,
+  "sum_of_individual_top_surface_areas_m2": 3130.139706936863,
+  "union_of_extracted_slab_plan_area_m2": 3115.5501473225777,
+  "note": "Union area removes geometric overlaps between extracted slab polygons, but is not automatically formal GFA. Review planter slabs, roads, ramps, voids, exclusions, and IFC geometry quality before accepting it.",
+  "failed_elements": []
+}
